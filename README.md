@@ -25,33 +25,31 @@
 
 <p align="center">
   <strong><a href="https://github.com/gzyun">官方网站</a></strong> |
-  <strong><a href="http://wpa.qq.com/msgrd?v=3&uin=2873439469&site=qq&menu=yes" target="_blank">QQ</a></strong> 
+  <strong target="_blank"><a href="http://wpa.qq.com/msgrd?v=3&uin=2873439469&site=qq&menu=yes">QQ</a></strong> 
 </p>
 
 
 
 <p align="center">
     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="java"></a>
-     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="git"></a>
+     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Git-%23F7DF1C?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="git"></a>
 </p>
-
 
 <p align="center">
     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Eclipse-%23F7DF1C?style=for-the-badge&logo=eclipse&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="eclipse"></a>
 <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Idea-%23F7DF1C?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC"alt="idea"></a>
 </p>
-
-
 <p align="center">
     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Mysql-%23F7DF1C?style=for-the-badge&logo=mysql&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="Mysql"></a>
 <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Redis-%23F7DF1C?style=for-the-badge&logo=redis&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="redis"></a>
 </p>
-
-
 <p align="center">
-    <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Spring-%23F7DF1C?style=for-the-badge&logo=spring&logoColor=00FFAA&labelColor=%2300BB22&color=%00FFAA" alt="spring"></a>
-    <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-SpringBoot-%23F7DF1C?style=for-the-badge&logo=SpringBoot&logoColor=00FFAA&labelColor=%2300BB22&color=%00FF77" alt="springboot"></a>
+    <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Spring-%23F7DF1C?style=for-the-badge&logo=spring&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="spring"></a>
+    <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-SpringBoot-%23F7DF1C?style=for-the-badge&logo=SpringBoot&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="springboot"></a>
 </p>
+
+
+
 
 
 
