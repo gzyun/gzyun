@@ -1,11 +1,11 @@
 <h1 align="center">@<a href="https://github.com/gongziyunmengze" target="_blank">公子云梦泽</a></h1> 
 
- 
+
 
 <p align="center">
-  <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/GitHub-%23FF00CC" alt="github" target="_blank"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gzyun.readme" alt="访客徽章" target="_blank"/>
+  <a href="https://github.com/gzyun"><img src="https://count.getloli.com/get/@gzyun.github.readme" alt="主页浏览量" target="_blank"/></a>
 </p>
+
 
 
 
@@ -31,10 +31,16 @@
 
 
 <p align="center">
+  <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/GitHub-%23FF00CC" alt="github" target="_blank"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gzyun.readme" alt="访客徽章" target="_blank"/>
+</p>
+
+
+
+<p align="center">
     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Java-%23F7DF1C?style=for-the-badge&logo=java&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="java"></a>
      <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Git-%23F7DF1C?style=for-the-badge&logo=git&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="git"></a>
 </p>
-
 <p align="center">
     <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Eclipse-%23F7DF1C?style=for-the-badge&logo=eclipse&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC" alt="eclipse"></a>
 <a href="https://github.com/gzyun"><img src="https://img.shields.io/badge/-Idea-%23F7DF1C?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=ff00ff&labelColor=%23F7DF1C&color=%23FF00CC"alt="idea"></a>
@@ -50,12 +56,17 @@
 
 
 
+<p align="center">
+<a target="_blank" url="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-宅男快乐网-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff"/></a>
+<a target="_blank" url="https://github.com/"><img src="https://img.shields.io/badge/GitHub-程序员交友平台-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=ffffff"/></a>
+</p>
 
 
 
 <p align="center">
-  <a href="https://github.com/gzyun"><img src="https://github-readme-stats.vercel.app/api?username=gzyun&show_icons=true&theme=buefy" alt="gzyun的github统计数据"></a>
+  <a href="https://github.com/gzyun"><img src="https://github-readme-stats.vercel.app/api?username=gzyun&show_icons=true&theme=synthwave" alt="gzyun的github统计数据"></a>
 </p>
+
 
 
 
@@ -65,8 +76,7 @@
 
 
 
-
-<p align="center">❤宅男一枚 可爱的男孩子 </p>
+<p align="center">❤宅男一枚 </p>
 
 
 
