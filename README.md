@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/gzyun" target="_blank"><img src="Img/千年巡礼.jpg"></a>
+  <a href="https://github.com/gzyun" target="_blank"><img src="https://pic2.zhimg.com/80/v2-c955149d1d0afd389298d399d6cd8e95_720w.jpg"></a>
 </p>
 
 
